@@ -10,7 +10,7 @@ class access{
 //    int[]pin=new int[4];
     void add() {
         System.out.println("\t\t\t\t\t\t\t\t\t\t\t|=====================|");
-        System.out.println("\t\t\t\t\t\t\t\t\t\t\t|\t\tTERV-ATM\t  |");
+        System.out.println("\t\t\t\t\t\t\t\t\t\t\t|\t\tALICE-ATM\t  |");
         System.out.println("\t\t\t\t\t\t\t\t\t\t\t|=====================|");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Pin: ");
